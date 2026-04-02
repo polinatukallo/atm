@@ -1,0 +1,10 @@
+/bin/
+/obj/
+/.idea/
+/.vs/
+*.user
+*.csproj.user
+*.db
+*.sqlite
+appsettings.*.json
+/secrets.json
